@@ -1,0 +1,19 @@
+{
+  "name": "shiromegane/sgpl",
+  "description": "Shiromegane's Generic PHP Libraries",
+  "keywords": ["pdo", "slack", "benchmark", "device"],
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://github.com/shiromegane/SGPL",
+  "authors": [
+    {
+      "name": "Shiromegane",
+      "email": "shiromegane42@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "SGPL": "."
+    }
+  }
+}
